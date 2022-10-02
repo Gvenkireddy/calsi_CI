@@ -444,7 +444,7 @@ public class General_purpose_calc
                 System.out.println(" Your answer is --> " + vac2 );
             }
         }*/
-        /*else if(ch1 == '8')
+        else if(ch1 == '8')
         {
             double p, pt, ans;
             System.out.println(" > Enter the percentage you want to find (% value) ");
@@ -454,7 +454,7 @@ public class General_purpose_calc
             ans = (p/100) * pt;
             System.out.println(" > " + p + "% of " + pt + " is --> " + ans);
         }
-        */els (ch1 == 'v' || ch1 == 'V')
+        else if(ch1 == 'v' || ch1 == 'V')
         {
         System.out.println(" ____________________  _                         ");
         System.out.println("|    Running v2.1    | \\`*\\                    ");
