@@ -24,7 +24,7 @@ public class General_purpose_calc
         System.out.println(" - Press '4' for a interest calculator (For recurring account) ");
         System.out.println(" - Press '5' for an Area calculator ");
         System.out.println(" - Press '6' for a Perimeter calculator ");
-        System.out.println(" - Press '7' for a Volume calculator ");
+        //System.out.println(" - Press '7' for a Volume calculator ");
         System.out.println(" - Press '8' for a Percentage calculator ");
         for( ; ; )
         {
@@ -396,7 +396,7 @@ public class General_purpose_calc
                 default :System.out.println(" ERROR --> Unknown choice ");
             }
         }
-        else if(ch1 == '7')
+        /*else if(ch1 == '7')
         {
             char chv;
             System.out.println(" > Choose the shape of the figure ");
@@ -443,7 +443,7 @@ public class General_purpose_calc
                 vac2 = 3.14159*(rc*rc)*(hc/3);
                 System.out.println(" Your answer is --> " + vac2 );
             }
-        }
+        }*/
         else if(ch1 == '8')
         {
             double p, pt, ans;
