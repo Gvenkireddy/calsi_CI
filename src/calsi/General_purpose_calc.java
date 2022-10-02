@@ -23,7 +23,7 @@ public class General_purpose_calc
         System.out.println(" - Press '3' for a Square Root calculator ");
         System.out.println(" - Press '4' for a interest calculator (For recurring account) ");
         System.out.println(" - Press '5' for an Area calculator ");
-        System.out.println(" - Press '6' for a Perimeter calculator ");
+        //System.out.println(" - Press '6' for a Perimeter calculator ");
         //System.out.println(" - Press '7' for a Volume calculator ");
         //System.out.println(" - Press '8' for a Percentage calculator ");
         for( ; ; )
