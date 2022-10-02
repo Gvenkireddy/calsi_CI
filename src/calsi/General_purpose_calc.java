@@ -454,7 +454,7 @@ public class General_purpose_calc
             ans = (p/100) * pt;
             System.out.println(" > " + p + "% of " + pt + " is --> " + ans);
         }
-        */els if(ch1 == 'v' || ch1 == 'V')
+        */els (ch1 == 'v' || ch1 == 'V')
         {
         System.out.println(" ____________________  _                         ");
         System.out.println("|    Running v2.1    | \\`*\\                    ");
